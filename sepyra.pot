@@ -1,0 +1,40 @@
+#: sepyra-analytics.php:57
+msgid "Sepyra is almost turned on."
+msgstr ""
+
+#: sepyra-analytics.php:58
+msgid "Please, enter your Site ID."
+msgstr ""
+
+#: sepyra-analytics.php:94
+msgid "Analytics System Settings"
+msgstr ""
+
+#: sepyra-analytics.php:95
+msgid "Get Site ID:"
+msgstr ""
+
+#: sepyra-analytics.php:96
+msgid "Connection Settings"
+msgstr ""
+
+#: sepyra-analytics.php:107
+msgid "Operation not permitted"
+msgstr ""
+
+#: sepyra-analytics.php:115
+msgid "Invalid Site ID (Please, check the register)."
+msgstr ""
+
+#: sepyra-analytics.php:95
+msgid "Sepyra Web Analytics"
+msgstr ""
+
+#: sepyra-analytics.php:124
+msgid "Site ID:"
+msgstr ""
+
+#: sepyra-analytics.php:125
+msgid "Save"
+msgstr ""
+

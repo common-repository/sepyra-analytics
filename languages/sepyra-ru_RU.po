@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sepyra Analytics\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: arenoros <arenoros@gmail.com>\n"
+"Language-Team: Sepyra <support@sepura.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Country: RUSSIA\n"
+
+#: sepyra-analytics.php:57
+msgid "Sepyra is almost turned on."
+msgstr "Sepyra почти включена."
+
+#: sepyra-analytics.php:58
+msgid "Please, enter your Site ID."
+msgstr "Пожалуйста введите идентификатор сайта. "
+
+
+#: sepyra-analytics.php:94
+msgid "Analytics System Settings"
+msgstr "Настройка системы аналитики "
+
+#: sepyra-analytics.php:95
+msgid "Get Site ID:"
+msgstr "Получить Идентификатор Сайта:"
+
+#: sepyra-analytics.php:96
+msgid "Connection Settings"
+msgstr "Настройки для подключения"
+
+#: sepyra-analytics.php:107
+msgid "Operation not permitted"
+msgstr "У вас недостаточно прав"
+
+#: sepyra-analytics.php:115
+msgid "Invalid Site ID (Please, check the register)."
+msgstr "Введён неверный идентификатор сайта(Проверьте регистр букв)."
+
+#: sepyra-analytics.php:95
+msgid "Sepyra Web Analytics"
+msgstr "Web-Aналитика Sepyra"
+
+#: sepyra-analytics.php:124
+msgid "Site ID:"
+msgstr "Идентификатор сайта:"
+
+#: sepyra-analytics.php:125
+msgid "Save"
+msgstr "Сохранить"
+
